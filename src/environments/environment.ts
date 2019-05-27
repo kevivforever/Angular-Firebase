@@ -6,11 +6,11 @@
 export const environment = {
   production: false,
   firebaseConfig: {
-    apiKey: 'AIzaSyBQSki6zEfD_K5niBfUNDjCt44KikIDjrs',
-    authDomain: 'yummic-development.firebaseapp.com',
-    databaseURL: 'https://yummic-development.firebaseio.com',
-    projectId: 'yummic-development',
-    storageBucket: 'yummic-development.appspot.com',
-    messagingSenderId: '88084897142'
+    apiKey: '',
+    authDomain: '',
+    databaseURL: '',
+    projectId: '',
+    storageBucket: '',
+    messagingSenderId: ''
   }
 };
