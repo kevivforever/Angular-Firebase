@@ -34,7 +34,7 @@
     "express": "^4.17.0",
     "firebase": "^6.0.4",
     "firebase-admin": "^8.0.0",
-    "moment": "2.24.0",
+    "moment": "2.29.4",
     "mongoose": "^5.5.11",
     "ng2-charts": "2.2.3",
     "ngx-bootstrap": "4.2.0",
